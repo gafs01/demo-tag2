@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+# Humans have both individual and collective responsibilities
+# A human is a social being
+# TEAM info
+
+    Github team - software devop
+
+# THANKS
+
+    Gaf Sad
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr, AngularJS
